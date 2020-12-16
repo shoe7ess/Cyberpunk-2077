@@ -1,0 +1,9 @@
+If you have already installed "More Options", place the merged options.json file under:
+\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\config\settings\platform\pc
+
+The "More Options" mod is required, as it has another a seperate options.json file that is installed under:
+\SteamLibrary\steamapps\common\Cyberpunk 2077\r6\config\settings
+It can be found here: https://www.nexusmods.com/cyberpunk2077/mods/23
+
+
+Alternately you can just extract the .rar file into the \settings folder (which contains the More Options specific file as well as the merged options file.
